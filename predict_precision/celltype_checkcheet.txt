@@ -1,0 +1,12 @@
+Reference	Prediction
+Eryth	Erythrocytes
+CD14 Mono	CD14 Monocytes
+Mk	Megakaryocytes
+CD34	CD34+
+DC	cDC,pDC
+CD4 T	CD4 T-cells
+CD8 T	CD8 T-cells
+CD16 Mono	CD16 Monocytes
+B	B-cells
+NK	NK cells
+pDC	pDC
